@@ -1683,7 +1683,7 @@
                         <head type="sub">RUSSIA MAY FIGHT FOR YEARS.</head>
                         <div type="wireReport">
                             <dateline>PARIS, July 18.</dateline>
-                            <p>M. Witte, in an interview, said that the
+                            <p><persName>M. Witte</persName>, in an interview, said that the
                             Tsar desires peace, but that he fears that the
                             Japanese terms will be such as to prevent an
                             agreement. In that case Russia is prepared to
@@ -1692,7 +1692,7 @@
                         </div>
                         <div type="wireReport">
                             <dateline>ST. PETERSBURG, July 18.</dateline>
-                            <p>M. Witte, in an interview, stated that
+                            <p><persName>M. Witte</persName>, in an interview, stated that
                             Russia was not in any way obliged to submit
                             to unacceptable conditions; she can continue
                             the war for several years.</p>
@@ -1702,87 +1702,87 @@
                         </div>
                     </div>
                     <div type="item">
-                        <head>SAGHALIEN</head>
-                        <head type="sub">BOMBARDMENT OF NAIBUCHI</head>
+                        <head><placeName ref="https://www.wikidata.org/wiki/Q7792">SAGHALIEN</placeName></head>
+                        <head type="sub">BOMBARDMENT OF <placeName ref="https://www.wikidata.org/wiki/Q4312375">NAIBUCHI</placeName></head>
                         <div type="wireReport">
                             <dateline>ST. PETERSBURG, July 18.</dateline>
-                            <p>General Linievitch reports that on the 14th
+                            <p><persName>General Linievitch</persName> reports that on the 14th
                             inst the Japanese were bombarding Naibuchi
                             on the south-western coast of Saghalien. (R.)</p>
                         </div>
                     </div>
-                </div>
-                <div type="item">
-                    <head>HOUSE OF COMMONS.</head>
-                    <head type="sub">THE REDISTRIBUTION SCHEME.</head>
-                    <div type="wireReport">
-                        <dateline>LONDON, July 18.</dateline>
-                        <p>The withdrawal of the redistribution scheme
-                        was due to the decision of the Speaker that
-                        the complex proposals contained in Mr. Bal-
-                        four's resolution must be taken seperately and
-                        not voted in a single resolution. This would
-                        greatly have protracted the debate.</p>
-                        <p>The announcement that the Unionist party
-                        meets to-day to consider its attitude towards
-                        the redistribution scheme and the remaining
-                        business of the session has excited many con-
-                        jectures in the lobbies.</p>
-                        <p>(Reuter.)</p>
+                    <div type="item">
+                        <head>HOUSE OF COMMONS.</head>
+                        <head type="sub">THE REDISTRIBUTION SCHEME.</head>
+                        <div type="wireReport">
+                            <dateline>LONDON, July 18.</dateline>
+                            <p>The withdrawal of the redistribution scheme
+                                was due to the decision of the Speaker that
+                                the complex proposals contained in Mr. <persName>Bal-
+                                    four</persName>'s resolution must be taken seperately and
+                                not voted in a single resolution. This would
+                                greatly have protracted the debate.</p>
+                            <p>The announcement that the <orgName>Unionist party</orgName>
+                                meets to-day to consider its attitude towards
+                                the redistribution scheme and the remaining
+                                business of the session has excited many con-
+                                jectures in the lobbies.</p>
+                            <p>(Reuter.)</p>
+                        </div>
+                        <div type="wireReport">
+                            <dateline>LONDON, July 18</dateline>
+                            <p>At the Unionist meeting Mr. Balfour justi-
+                                fied his action with regard to the redistribution
+                                scheme, and earnestly exhorted the party to
+                                continue loyally to support the Government.
+                                The meeting unanimously voted confidence in
+                                Mr. Balfour.</p>
+                            <p>(Reuter.)</p>
+                        </div>
                     </div>
-                    <div type="wireReport">
-                        <dateline>LONDON, July 18</dateline>
-                        <p>At the Unionist meeting Mr. Balfour justi-
-                        fied his action with regard to the redistribution
-                        scheme, and earnestly exhorted the party to
-                        continue loyally to support the Government.
-                        The meeting unanimously voted confidence in
-                        Mr. Balfour.</p>
-                        <p>(Reuter.)</p>
+                    <div type="item">
+                        <head>THE "ENTENTE CORDIALE."</head>
+                        <head type="sub">BRITISH FLEET LEAVES BREST.</head>
+                        <div type="wireReport">
+                            <dateline>PARIS, July 18.</dateline>
+                            <p>The visit of the fleet to <placeName>Brest</placeName> is recognised
+                                as having produced the best feeling between
+                                the two peoples and navies.</p>
+                            <p>(Reuter.)</p>
+                        </div>
+                        <div type="wireReport">
+                            <dateline>BREST, July 18.</dateline>
+                            <p>The British fleet has left.</p>
+                            <p>(Reuter.)</p>
+                        </div>
                     </div>
-                </div>
-                <div type="item">
-                    <head>THE "ENTENTE CORDIALE."</head>
-                    <head type="sub">BRITISH FLEET LEAVES BREST.</head>
-                    <div type="wireReport">
-                        <dateline>PARIS, July 18.</dateline>
-                        <p>The visit of the fleet to Brest is recognised
-                        as having produced the best feeling between
-                        the two peoples and navies.</p>
-                        <p>(Reuter.)</p>
+                    <div type="item">
+                        <head>FUNERAL OF FARFADET VICTIMS.</head>
+                        <div type="wireReport">
+                            <dateline>PARIS, July 18.</dateline>
+                            <p>The funeral of the victims of the Farfadet
+                                was imposing.</p>
+                            <p>(Havas.)</p>
+                        </div>
                     </div>
-                    <div type="wireReport">
-                        <dateline>BREST, July 18.</dateline>
-                        <p>The British fleet has left.</p>
-                        <p>(Reuter.)</p>
-                    </div>
-                </div>
-                <div type="item">
-                    <head>FUNERAL OF FARFADET VICTIMS.</head>
-                    <div type="wireReport">
-                        <dateline>PARIS, July 18.</dateline>
-                        <p>The funeral of the victims of teh Farfadet
-                        was imposing.</p>
-                        <p>(Havas.)</p>
-                    </div>
-                </div>
-                <div type="item">
-                    <head>HOME CRICKET.</head>
-                    <div type="wireReport">
-                        <dateline>LONDON, July 18.</dateline>
-                        <p>Yorkshire beat Hampshire by an innings
-                        and 167 runs. M.C.C. beat Derbyshire by an
-                        innings and 252 runs.</p>
-                        <p>(Reuter.)</p>
+                    <div type="item">
+                        <head>HOME CRICKET.</head>
+                        <div type="wireReport">
+                            <dateline>LONDON, July 18.</dateline>
+                            <p>Yorkshire beat Hampshire by an innings
+                                and 167 runs. M.C.C. beat Derbyshire by an
+                                innings and 252 runs.</p>
+                            <p>(Reuter.)</p>
+                        </div>
                     </div>
                 </div>
                 <div type="section" element="social">
                     <head>PERSONAL AND SOCIAL.</head>
-                    <p>His Beatitude Kyrillos VIII, Melchite
-                    Patriarch, leaves Alexandria on Saturday next
+                    <p><persName>His Beatitude Kyrillos VIII</persName>, <orgName>Melchite
+                    Patriarch</orgName>, leaves Alexandria on Saturday next
                     for Syria.</p>
-                    <p>Mr. Webb, Acting Adviser to the Ministry
-                    of Public Works, arrived at San Stefano from
+                    <p>Mr. Webb, Acting Adviser to the <orgName>Ministry
+                    of Public Works</orgName>, arrived at San Stefano from
                     Cairo last night.</p>
                     <p>M.A. Boinet Bey, Secretary-General to the
                     Ministry of Public Works, has been granted
@@ -1795,8 +1795,8 @@
                     been granted 2 1/2 months' leave of absence,
                     from the 23rd inst.</p>
                     <p>A telegram from our Port Said Correspon-
-                    dent states that Captain Max Chevalier de
-                    Leitgeb, principal agent of the Austrian Lloyd
+                    dent states that <persName>Captain Max Chevalier de
+                    Leitgeb</persName>, principal agent of the Austrian Lloyd
                     S.S. Company at that port, died in Austria on
                     the 17th inst.</p>
                     <p>Cpat. F.H.A. Wollaston, 2nd Battalion
@@ -1909,7 +1909,7 @@
                     </div>
                     <div type="item">
                         <p>THE COTTON WORM.-In the July number
-                        of teh "Bulletin de l'Union Syndicale des
+                        of the "Bulletin de l'Union Syndicale des
                         Agriculteurs d'Egypte" M. Poilay Bey devotes
                         several paragraphs to the campaign against
                         the cotton worm, in which he pays a well-
@@ -1960,7 +1960,7 @@
                             <p>The Grand Cherif of Mecca is dead. (R.)</p>
                         </div>
                         <div type="wireReport">
-                            <p>The Emir el Hag's report on the pilgrimage
+                            <p>The <persName>Emir el Hag</persName>'s report on the pilgrimage
                             of 1904 contains some interesting references
                             to the deceased Cherif which we quote in full
                             The first deaals with the robberies and assaults
@@ -1991,7 +1991,7 @@
                             by the Cherif was long and infested by evil-
                             doers."</p>
                             <p>The Cherif recently received letters from
-                            the Imam Yahia of the Yemen, which perhaps
+                            the <persName>Imam Yahia</persName> of the Yemen, which perhaps
                             explains his death, a Turkish garrison being
                             stationed at Mecca.</p>
                         </div>
@@ -2102,7 +2102,7 @@
                         school where missionaries would be instructed
                         in the art of spreading an Eastern faith among
                         a Western people.</p>
-                        <p>IN a recent issue of the "Daily Mirror," it
+                        <p>In a recent issue of the "Daily Mirror," it
                         was stated that the foundation-stone of thew
                         mosque would be laid by the Shah of Persia
                         during his forthcoming visit to London, our
@@ -2117,8 +2117,8 @@
                         cost of this structure is £25,000, and of this but
                         a small amount has been collected so far.</p>
                         <p>The plan of the edifice and its style of archi-
-                        tecture have been designed by Mr. Robert
-                        Williams, F.R.I.B.A. Architect, of Clifford's
+                        tecture have been designed by <persName>Mr. Robert
+                        Williams</persName>, F.R.I.B.A. Architect, of Clifford's
                         Inn, who is now in Alexandria, but leaves for
                         London on Saturday next.</p>
                         <p>It is said that his Highness the Khedive,
@@ -2126,7 +2126,7 @@
                         greatest interest in the idea, and has promised
                         to give it every support.</p>
                         <p>The Ameer of Afghanistan has also lavishly
-                            contributed £1,000 and it is expected that the
+                        contributed £1,000 and it is expected that the
                         Shah of Persia will display his usual lavish
                         generosity in making this fairy-like structure
                         the most beautiful in Europe.</p>
@@ -2201,7 +2201,7 @@
                     </div>
                     <div type="article">
                         <p>CAIRO'S WATER SUPPLY.-The recent report
-                        of Professor H. Bitter, director of the Hygienic
+                        of <persName>Professor H. Bitter</persName>, director of the Hygienic
                         Institute of the Sanitary Department, on the
                         quality of the water supply of Cairo, must
                         have reassured a great many people on a sub-
@@ -2245,11 +2245,11 @@
                         proved that Islam was no obstacle to social
                         progress or to prosperity in this world or the
                         next. We have not forgotten his articles
-                        refuting the contentions of M. Hanotaux
+                        refuting the contentions of <persName>M. Hanotaux</persName>
                         and others who asserted that Islam was a decadent
                         faith...We have heard that the Governor
                         of Algiers recently declared that if there were
-                        ten men like Sheikh Mohamed Abdou in the
+                        ten men like <persName>Sheikh Mohamed Abdou</persName> in the
                         Moslem world he would be a willing convert
                         to Islam.</p>
                     </div>
@@ -2265,14 +2265,14 @@
                         <p>The Canadian Commercial Agent at Yoko-
                         hama reports that a Japanese association has
                         been recently formed in Tokio, under the style
-                        of the "Menka Saibai Kyokai" (Cotton Planta-
-                        tion Society), with the object of encouraging
+                        of the "Menka Saibai Kyokai" (<orgName>Cotton Planta-
+                        tion Society</orgName>), with the object of encouraging
                         the cultivation of cotton. It has been decided
                         as a first step to make experimental cultivation
                         in Korea, and experts and labourers will be
                         sent to the peninsula shortly. The selection of
-                        experts has been entrusted to the Department of
-                        Agriculture and Commerce. The Government,
+                        experts has been entrusted to the <orgName>Department of
+                        Agriculture and Commerce</orgName>. The Government,
                         it is said, fully approve of the work of the
                         association, and their assistance is promised as
                         far as possible. Considering the large amount
@@ -4244,7 +4244,7 @@
                             </div>
                         </div>
                     </div>
-                <div type="section" element="mouvementMaritime">
+                <div type="section" element="shippingMovements">
                     <head>MOUVEMENT MARITIME DU PORT D'ALEXANDRIE</head>
                     <div type="subsection">
                         <head>ARRIVÉS</head>
@@ -6898,7 +6898,7 @@
             <div type="page" n="7">
                 <cols n="6"/>
                 <cb n="1"/>
-                <div type="item">
+                <div type="section" element="parisLetter">
                     <head>OUR PARIS LETTER.</head>
                     <div type="subsection">
                         <head>(FROM OUR CORRESPONDENT.)</head>
@@ -7033,227 +7033,231 @@
                     </div>
                 </div>
                 <cb n="2"/>
-                <div type="item">
-                    <p>VII and President Loubet. The first idea of
-                    building this monument to betoken that two
-                    great nations were about to make a friendship
-                    that would signify enormous power in the
-                    interests of international peace sprang, as many
-                    great things do, from a friendly greeting from
-                    one man to another. Diplomatic pourparlers
-                    were started, and the ruler of one great race
-                    came to visit the head of another. The visit
-                    was returned amidst ever growing enthusiasm,
-                    and now the monument is about to be complet
-                    ed, and amid a pomp and splendour that will
-                    not soon be forgotten.</p>
-                </div>
-                <div type="item">
-                    <p>Paris is the home of quacks, and the Para
-                    dise of beauty doctors; and it does not
-                    matter what your grievance against Nature
-                    may be, if you only find the right man, or
-                    woman, you may be certain that he or she
-                    will promise to do anything you may desire.
-                    You will at least be assured that what you
-                    wish is as good as accomplished. Is it wrinkles?
-                    You have only to come two or three times to
-                    the boudoir of a lady skilled in the art of
-                    rejuvenating the human face, and you will be
-                    more beautiful than Venus. Is it a defect in
-                    the classic line of your nose? Then the process
-                    is longer, but it is none the less bound to be
-                    crowned with success. At one time vaseline
-                    was used in restoring damaged noses. To-day,
-                    the vaseline method has been dethroned beyond
-                    appeal by the paraffin method. But the quali
-                    ties which have made the success of the latter
-                    method have also militated against its imme
-                    diate adoption. The instantaneous solidification
-                    of the paraffin wax required such quickness
-                    in operating that the operator had to be
-                    highly skilled and very rapid in his move
-                    ments in order to attain success and avoid
-                    disappointment. On the other hand, if the
-                    paraffin was heated to too high a tempera
-                    ture the operation might cause serious burns.
-                    To obviate all these inconveniences, Dr. Lagard
-                    has presented to the Paris Academy of Medicine
-                    a method and a new instrument, whereby he is
-                    able to inject the substance, cold, beneath the
-                    mucous membrane and in the thickness of the
-                    tissues, the paraffin being softened by compres
-                    sion and rubbing, but still in a solid state. By
-                    this new method an experienced and dexterous
-                    specialist ought to be able to repair a crushed
-                    or twisted nose, fill up a cheek hollowed by a 
-                    wound, or merely lean, efface wrinkles, scars,
-                    and deep ridges resulting from the tooth of
-                    time or the bistouri of the surgeon. He can
-                    restore a lip or a nostril, or improve the shape
-                    of an ear. The system adopted by Dr. Lagard
-                    has the advantage of preventing any of the
-                    accidents attendant on the use of paraffin
-                    liquified by heat and injected in a fluid state.
-                    The operation is performed by a special instru
-                    ment, which, owing to the peculiar pressure
-                    put onh, causes the substance to penetrate the
-                    thickness of the tissues in a uniform and ab
-                    solutely unchangeable aspect. This is a fresh
-                    advance in the art of beautifying, being free
-                    from all risk and practical in its application;
-                    and it warrants the hope that the cherished
-                    dream of restoring the human physiognomy
-                    without a scalpel or scar is not altogether
-                    Utopian.</p>
-                </div>
-                <div type="item">
-                    <p>King Edward, the Kaiser, and the young
-                    King of Spain are all possessors of dogs which
-                    were recently bought in Paris. King Edward's
-                    purchase was a splendid specimen of the French
-                    bulldog, for which no less than £180 was paid
-                    during His Majesty's last visit to Paris. For
-                    the Emperor William the sale was effected
-                    only a week ago of a pair of French bulldogs,
-                    for which it is understood the Imperial price
-                    of £480 was paid. It will be observed that the
-                    Emperor's purchase was coincident with the
-                    understanding between France and Germany.
-                    A French bulldog was also sold to Senor
-                    Gayangos, a Spanish diplomat, on the occasion
-                    of King Alfonso's visit to Paris, and presented
-                    by the buyer to his sovereign. But we must
-                    not look a gift dog in the mouth, and so a
-                    discreet silence is maintained as to the price.
-                    M. Aron, the fortunate fealer who made the
-                    foregoing sales, claims to be in possession of the
-                    finest small Pomeranian in France. He (the
-                    dog) is only fourteen months old, black, and
-                    not too small for breeding. His eyes are
-                    prominent upon his little head, and he looks
-                    at you with a wondrously knowing, trusting
-                    air that is quite captivating. His price is £80,
-                    and he won a first prize at the recent show
-                    in the Tuileries Gardens, he is probably well
-                    worth it.</p>
-                </div>
-                <div type="item">
-                    <p>The late Baron Alphonse de Rothschild,
-                    like most of his family, who have unostenta
-                    tiously carried into practice for several gene
-                    rations those principles which the more stre
-                    nuous publicity of another land has more
-                    recently published as "the gospel of wealth,"
-                    was a philanthropist as well as a connoisseur.
-                    He left an injunction with his executors to
-                    apply the sum of £120,000 to benevolent
-                    purposes, in which all the poor of France
-                    might benefit, without distintion of race or
-                    creed. The difficult and responsible task of
-                    apportionment and selection is now being
-                    worked out.</p>
-                </div>
-                <div type="item">
-                    <p>Among the resolutions to be submitted to
-                    the consideration of the meeting of the Asso
-                    ciated Chambers of Commerce at Liège in
-                    September is a motion to be proposed by Mr.
-                    W. Hanning, a prominent member of the
-                    British Chamber of Commerce of Paris. This is
-                    Mr. Hanning's motion: "Whereas a practice
-                    has arisen among foreign mnufacturers of
-                    marking their goods with English names or
-                    phrases of a nature to lead to the false suppo
-                    sition that they are British goods: It is resolv
-                    ed that representatives be made to the Fo
-                    reign Office with a view to secure the effectual
-                    application to this reprehensible practice of
-                    the provisions of the Convention of Madrid
-                    'Industrial Property' of April 14, 1891." The
-                    fact is that the fraudulent use of British
-                    marks and descriptions by unscrupulous Con
-                    tinental manufacturers is becoming a very
-                    serious question for British traders. It is quite</p>
+                <div type="section" element="parisLetter">
+                    <div type="item">
+                        <p>VII and President Loubet. The first idea of
+                            building this monument to betoken that two
+                            great nations were about to make a friendship
+                            that would signify enormous power in the
+                            interests of international peace sprang, as many
+                            great things do, from a friendly greeting from
+                            one man to another. Diplomatic pourparlers
+                            were started, and the ruler of one great race
+                            came to visit the head of another. The visit
+                            was returned amidst ever growing enthusiasm,
+                            and now the monument is about to be complet
+                            ed, and amid a pomp and splendour that will
+                            not soon be forgotten.</p>
+                    </div>
+                    <div type="item">
+                        <p>Paris is the home of quacks, and the Para
+                            dise of beauty doctors; and it does not
+                            matter what your grievance against Nature
+                            may be, if you only find the right man, or
+                            woman, you may be certain that he or she
+                            will promise to do anything you may desire.
+                            You will at least be assured that what you
+                            wish is as good as accomplished. Is it wrinkles?
+                            You have only to come two or three times to
+                            the boudoir of a lady skilled in the art of
+                            rejuvenating the human face, and you will be
+                            more beautiful than Venus. Is it a defect in
+                            the classic line of your nose? Then the process
+                            is longer, but it is none the less bound to be
+                            crowned with success. At one time vaseline
+                            was used in restoring damaged noses. To-day,
+                            the vaseline method has been dethroned beyond
+                            appeal by the paraffin method. But the quali
+                            ties which have made the success of the latter
+                            method have also militated against its imme
+                            diate adoption. The instantaneous solidification
+                            of the paraffin wax required such quickness
+                            in operating that the operator had to be
+                            highly skilled and very rapid in his move
+                            ments in order to attain success and avoid
+                            disappointment. On the other hand, if the
+                            paraffin was heated to too high a tempera
+                            ture the operation might cause serious burns.
+                            To obviate all these inconveniences, Dr. Lagard
+                            has presented to the Paris Academy of Medicine
+                            a method and a new instrument, whereby he is
+                            able to inject the substance, cold, beneath the
+                            mucous membrane and in the thickness of the
+                            tissues, the paraffin being softened by compres
+                            sion and rubbing, but still in a solid state. By
+                            this new method an experienced and dexterous
+                            specialist ought to be able to repair a crushed
+                            or twisted nose, fill up a cheek hollowed by a 
+                            wound, or merely lean, efface wrinkles, scars,
+                            and deep ridges resulting from the tooth of
+                            time or the bistouri of the surgeon. He can
+                            restore a lip or a nostril, or improve the shape
+                            of an ear. The system adopted by Dr. Lagard
+                            has the advantage of preventing any of the
+                            accidents attendant on the use of paraffin
+                            liquified by heat and injected in a fluid state.
+                            The operation is performed by a special instru
+                            ment, which, owing to the peculiar pressure
+                            put onh, causes the substance to penetrate the
+                            thickness of the tissues in a uniform and ab
+                            solutely unchangeable aspect. This is a fresh
+                            advance in the art of beautifying, being free
+                            from all risk and practical in its application;
+                            and it warrants the hope that the cherished
+                            dream of restoring the human physiognomy
+                            without a scalpel or scar is not altogether
+                            Utopian.</p>
+                    </div>
+                    <div type="item">
+                        <p>King Edward, the Kaiser, and the young
+                            King of Spain are all possessors of dogs which
+                            were recently bought in Paris. King Edward's
+                            purchase was a splendid specimen of the French
+                            bulldog, for which no less than £180 was paid
+                            during His Majesty's last visit to Paris. For
+                            the Emperor William the sale was effected
+                            only a week ago of a pair of French bulldogs,
+                            for which it is understood the Imperial price
+                            of £480 was paid. It will be observed that the
+                            Emperor's purchase was coincident with the
+                            understanding between France and Germany.
+                            A French bulldog was also sold to Senor
+                            Gayangos, a Spanish diplomat, on the occasion
+                            of King Alfonso's visit to Paris, and presented
+                            by the buyer to his sovereign. But we must
+                            not look a gift dog in the mouth, and so a
+                            discreet silence is maintained as to the price.
+                            M. Aron, the fortunate fealer who made the
+                            foregoing sales, claims to be in possession of the
+                            finest small Pomeranian in France. He (the
+                            dog) is only fourteen months old, black, and
+                            not too small for breeding. His eyes are
+                            prominent upon his little head, and he looks
+                            at you with a wondrously knowing, trusting
+                            air that is quite captivating. His price is £80,
+                            and he won a first prize at the recent show
+                            in the Tuileries Gardens, he is probably well
+                            worth it.</p>
+                    </div>
+                    <div type="item">
+                        <p>The late Baron Alphonse de Rothschild,
+                            like most of his family, who have unostenta
+                            tiously carried into practice for several gene
+                            rations those principles which the more stre
+                            nuous publicity of another land has more
+                            recently published as "the gospel of wealth,"
+                            was a philanthropist as well as a connoisseur.
+                            He left an injunction with his executors to
+                            apply the sum of £120,000 to benevolent
+                            purposes, in which all the poor of France
+                            might benefit, without distintion of race or
+                            creed. The difficult and responsible task of
+                            apportionment and selection is now being
+                            worked out.</p>
+                    </div>
+                    <div type="item">
+                        <p>Among the resolutions to be submitted to
+                            the consideration of the meeting of the Asso
+                            ciated Chambers of Commerce at Liège in
+                            September is a motion to be proposed by Mr.
+                            W. Hanning, a prominent member of the
+                            British Chamber of Commerce of Paris. This is
+                            Mr. Hanning's motion: "Whereas a practice
+                            has arisen among foreign manufacturers of
+                            marking their goods with English names or
+                            phrases of a nature to lead to the false suppo
+                            sition that they are British goods: It is resolv
+                            ed that representatives be made to the Fo
+                            reign Office with a view to secure the effectual
+                            application to this reprehensible practice of
+                            the provisions of the Convention of Madrid
+                            'Industrial Property' of April 14, 1891." The
+                            fact is that the fraudulent use of British
+                            marks and descriptions by unscrupulous Con
+                            tinental manufacturers is becoming a very
+                            serious question for British traders. It is quite</p>
+                    </div>
                 </div>
                 <cb n="3"/>
-                <div type="item">
-                    <p>bad enough to have the alien dumped on our
-                    shores, and the foreign watchmaker given
-                    privileged treatment in Great Britain, but the
-                    Englishman who lives and trades abroad is
-                    resolved as far as that is possible to maintain
-                    Britain's reputation on the Continent for sound
-                    goods and no shoddy. As a result of its
-                    researches the British Chamber of Commerce
-                    in Paris-in addition to the cases which it has
-                    already notified to His Majesty's Government
-                    -i prepared to prove that emery paper made
-                    in Luebeck is being sold as of English manu
-                    facture; that metal bobbins for typewriters
-                    made in Germany are put on the market as the
-                    product of British industry; that cigars manu
-                    factured in Belgium are marked "High Life,"
-                    stamped with the names of "-Brothers,
-                    London," and sold as English goods; that felt
-                    hats marked 'Made in Londo" are turned
-                    out in Vienna; and that pins, made in Ger
-                    many, are marked in French; "Épingles An
-                    glaises d'une seule pièce-qualité supérieure."</p>
-                    <p>And what is done in Germany and Austria
-                    is being done more or less all over the Con
-                    tinent. In Roumania, although the law for
-                    registering trade marks prevents any swindl
-                    ing in that direction, a vast amount is done
-                    in another way to the injury of the British
-                    manufacturer. One of the most glaring
-                    frauds is in the soap manufacture. Although soap
-                    of all descriptions (but of inferior quality) is
-                    manufactured in the country, for the finer
-                    kinds-toilet soap &amp;co.-the Roumanian public
-                    looks abroad, principally to France and Great
-                    Britain. In the finer articles any amount of
-                    "forgery" is done; shape, packing, &amp;c., being
-                    followed to a nicety; and inscriptions such as
-                    "superior soap," "best toilet soap," "British
-                    manufacture," and "fine English toilet soap,"
-                    appear on the boxes. The retail dealers find it
-                    profitable to wink at the deception, and foist
-                    the forgery upon the unsuspecting purchaser,
-                    who pays the higher price so that he may
-                    secure an English article, and is afterwards
-                    heard to declare that "English soap is not
-                    what it used to be." One of the most glaring
-                    forgeries noted by a Roumanian correspondent
-                    is that practised at a certain Galatz factory,
-                    where the shape and inscription of a popular
-                    British make of soap are exactly copied, the
-                    same shape and inscription being used for two
-                    entirely different kinds of soap. Paint,
-                    varnish and, paper manufacturers practise the
-                    same deceit extensively, and a dozen other
-                    examples could easily be named.</p>
-                </div>
-                <div type="item">
-                    <p>Strange mystics are discovered in Paris
-                    every now and again. The latest described
-                    as an Arabian Druid, who inhabited the Rue
-                    de la Michodière, a street in the centre of
-                    the city. His neighbours were startled at
-                    midnight to hear weird and discordant sounds
-                    issuing from the dwelling of Ali Bonem,
-                    followed by ritualistic incantations and litur
-                    gical chantings, alternatively plaintive and
-                    fierce. The reflection of flames was also ob
-                    served. When the door was burst open by
-                    the police a man of huge stature was seen,
-                    clothed in a long white sheet, his eyes rolling
-                    wildly, and in his hand a blood-stained
-                    knife. Around him a number of wax candles
-                    shed a mystic light, and on a piano, which
-                    had served as an altar lay a disembowelled
-                    lamb. As a measure of precaution Ali Bonem
-                    the high priest, has been taken into custody.</p>
+                <div type="section" element="parisLetter">
+                    <div type="item">
+                        <p>bad enough to have the alien dumped on our
+                            shores, and the foreign watchmaker given
+                            privileged treatment in Great Britain, but the
+                            Englishman who lives and trades abroad is
+                            resolved as far as that is possible to maintain
+                            Britain's reputation on the Continent for sound
+                            goods and no shoddy. As a result of its
+                            researches the British Chamber of Commerce
+                            in Paris-in addition to the cases which it has
+                            already notified to His Majesty's Government
+                            -i prepared to prove that emery paper made
+                            in Luebeck is being sold as of English manu
+                            facture; that metal bobbins for typewriters
+                            made in Germany are put on the market as the
+                            product of British industry; that cigars manu
+                            factured in Belgium are marked "High Life,"
+                            stamped with the names of "-Brothers,
+                            London," and sold as English goods; that felt
+                            hats marked 'Made in Londo" are turned
+                            out in Vienna; and that pins, made in Ger
+                            many, are marked in French; "Épingles An
+                            glaises d'une seule pièce-qualité supérieure."</p>
+                        <p>And what is done in Germany and Austria
+                            is being done more or less all over the Con
+                            tinent. In Roumania, although the law for
+                            registering trade marks prevents any swindl
+                            ing in that direction, a vast amount is done
+                            in another way to the injury of the British
+                            manufacturer. One of the most glaring
+                            frauds is in the soap manufacture. Although soap
+                            of all descriptions (but of inferior quality) is
+                            manufactured in the country, for the finer
+                            kinds-toilet soap &amp;co.-the Roumanian public
+                            looks abroad, principally to France and Great
+                            Britain. In the finer articles any amount of
+                            "forgery" is done; shape, packing, &amp;c., being
+                            followed to a nicety; and inscriptions such as
+                            "superior soap," "best toilet soap," "British
+                            manufacture," and "fine English toilet soap,"
+                            appear on the boxes. The retail dealers find it
+                            profitable to wink at the deception, and foist
+                            the forgery upon the unsuspecting purchaser,
+                            who pays the higher price so that he may
+                            secure an English article, and is afterwards
+                            heard to declare that "English soap is not
+                            what it used to be." One of the most glaring
+                            forgeries noted by a Roumanian correspondent
+                            is that practised at a certain Galatz factory,
+                            where the shape and inscription of a popular
+                            British make of soap are exactly copied, the
+                            same shape and inscription being used for two
+                            entirely different kinds of soap. Paint,
+                            varnish and, paper manufacturers practise the
+                            same deceit extensively, and a dozen other
+                            examples could easily be named.</p>
+                    </div>
+                    <div type="item">
+                        <p>Strange mystics are discovered in Paris
+                            every now and again. The latest described
+                            as an Arabian Druid, who inhabited the Rue
+                            de la Michodière, a street in the centre of
+                            the city. His neighbours were startled at
+                            midnight to hear weird and discordant sounds
+                            issuing from the dwelling of Ali Bonem,
+                            followed by ritualistic incantations and litur
+                            gical chantings, alternatively plaintive and
+                            fierce. The reflection of flames was also ob
+                            served. When the door was burst open by
+                            the police a man of huge stature was seen,
+                            clothed in a long white sheet, his eyes rolling
+                            wildly, and in his hand a blood-stained
+                            knife. Around him a number of wax candles
+                            shed a mystic light, and on a piano, which
+                            had served as an altar lay a disembowelled
+                            lamb. As a measure of precaution Ali Bonem
+                            the high priest, has been taken into custody.</p>
+                    </div>
                 </div>
                 <div type="item">
                     <head>A SHAKESPEARE DISCOVERY.</head>
